@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "transport.me",
-    "slug": "transport.me",
+    "slug": "transportme",
     "platforms": [
       "ios",
       "android",
