@@ -1,0 +1,3606 @@
+{
+    "request_time": "2020-05-17T16:37:33+01:00",
+    "source": "NaPTAN",
+    "acknowledgements": "Contains DfT NaPTAN bus stops data",
+    "member": [{
+            "type": "bus_stop",
+            "name": "King Lane Buck Stone Gdns - SE-bound",
+            "latitude": 53.85373,
+            "longitude": -1.55879,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012668"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Buck Stone Gdns - NW-bound",
+            "latitude": 53.85408,
+            "longitude": -1.55973,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012669"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Nursery Lane - NW-bound",
+            "latitude": 53.85168,
+            "longitude": -1.55557,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012621"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Nursery Lane - SE-bound",
+            "latitude": 53.85098,
+            "longitude": -1.5545,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010937"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Allerton High School - NW-bound",
+            "latitude": 53.84998,
+            "longitude": -1.55366,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450025623"
+        },
+        {
+            "type": "bus_stop",
+            "name": "The Avenue Bottom - S-bound",
+            "latitude": 53.85625,
+            "longitude": -1.56286,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450010589"
+        },
+        {
+            "type": "bus_stop",
+            "name": "The Avenue Bottom - NE-bound",
+            "latitude": 53.85678,
+            "longitude": -1.56262,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450025265"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Park & Ride (stop A) - SE-bound",
+            "latitude": 53.84922,
+            "longitude": -1.55222,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010938"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Road King Ln - NE-bound",
+            "latitude": 53.84888,
+            "longitude": -1.55296,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012615"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Road King Ln - SW-bound",
+            "latitude": 53.84866,
+            "longitude": -1.55315,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012614"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Park & Ride (stop B) - S-bound",
+            "latitude": 53.84904,
+            "longitude": -1.55204,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010939"
+        },
+        {
+            "type": "bus_stop",
+            "name": "The Ave The Lane - NE-bound",
+            "latitude": 53.85814,
+            "longitude": -1.55815,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450025245"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Deanswood Hill Deanswood Garth - W-bound",
+            "latitude": 53.84774,
+            "longitude": -1.5592,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450027313"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Deanswood Hill Deanswood Garth - E-bound",
+            "latitude": 53.8478,
+            "longitude": -1.55999,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450027894"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Bank Tynwald Hill - SE-bound",
+            "latitude": 53.8475,
+            "longitude": -1.55754,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012617"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Bank Tynwald Hill - NW-bound",
+            "latitude": 53.8475,
+            "longitude": -1.5577,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010592"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Bank Moor Haven Court - NE-bound",
+            "latitude": 53.8475,
+            "longitude": -1.55416,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012616"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cranmer Bank Moor Haven Court - SW-bound",
+            "latitude": 53.84744,
+            "longitude": -1.55393,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450026562"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln The Lane - S-bound",
+            "latitude": 53.85845,
+            "longitude": -1.56374,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450012622"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Road Scotland Wood Rd - NW-bound",
+            "latitude": 53.84652,
+            "longitude": -1.56137,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012665"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Road Scotland Wood Rd - SE-bound",
+            "latitude": 53.84638,
+            "longitude": -1.56105,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010591"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lingfield Hill Nursery Lane - N-bound",
+            "latitude": 53.85172,
+            "longitude": -1.54572,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450023835"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lingfield Hill Nursery Lane - S-bound",
+            "latitude": 53.85173,
+            "longitude": -1.5456,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010594"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Moor Allerton Centre - NW-bound",
+            "latitude": 53.84708,
+            "longitude": -1.5505,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010936"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lingfield Hill Lingfield Drive - N-bound",
+            "latitude": 53.84956,
+            "longitude": -1.54568,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012609"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lingfield Hill Lingfield Drive - S-bound",
+            "latitude": 53.84951,
+            "longitude": -1.54555,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010593"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Road Tynwald Hill - NW-bound",
+            "latitude": 53.84488,
+            "longitude": -1.55888,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012666"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Road Tynwald Hill - SE-bound",
+            "latitude": 53.84481,
+            "longitude": -1.55861,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012667"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Moor Allerton Centre - SE-bound",
+            "latitude": 53.84608,
+            "longitude": -1.5492,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010940"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Moor Allerton Centre - SE-bound",
+            "latitude": 53.845,
+            "longitude": -1.55151,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450024194"
+        },
+        {
+            "type": "bus_stop",
+            "name": "The Drive - NE-bound",
+            "latitude": 53.86169,
+            "longitude": -1.55347,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450025246"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lakeland Crescent - W-bound",
+            "latitude": 53.86242,
+            "longitude": -1.56026,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450012626"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Rd Saxon Road - NW-bound",
+            "latitude": 53.84329,
+            "longitude": -1.5575,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012651"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Black Moor Rd Saxon Road - S-bound",
+            "latitude": 53.84324,
+            "longitude": -1.55727,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010590"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Leafield Drive - SE-bound",
+            "latitude": 53.84497,
+            "longitude": -1.54752,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010941"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Alwoodley Lane The Ave - W-bound",
+            "latitude": 53.86274,
+            "longitude": -1.55355,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450012672"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Nursery Lane Fir Tree Grove - W-bound",
+            "latitude": 53.85162,
+            "longitude": -1.54063,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010595"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Alwoodley Lane King Ln - W-bound",
+            "latitude": 53.86192,
+            "longitude": -1.56574,
+            "accuracy": 20,
+            "description": "Alwoodley, Leeds",
+            "atcocode": "450012624"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Nursery Lane Fir Tree Grove - E-bound",
+            "latitude": 53.85168,
+            "longitude": -1.54031,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012608"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Leafield Drive - NW-bound",
+            "latitude": 53.84468,
+            "longitude": -1.54741,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450023909"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Sir George Martin Drive East Moor Ln - N-bound",
+            "latitude": 53.85346,
+            "longitude": -1.57734,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012354"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Nursery Ln Primley Park Crescent - W-bound",
+            "latitude": 53.85131,
+            "longitude": -1.53732,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012664"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Stonegate Road - N-bound",
+            "latitude": 53.84296,
+            "longitude": -1.54571,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010588"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Queenshill Way - NE-bound",
+            "latitude": 53.84371,
+            "longitude": -1.54359,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011197"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Queenshill Approach - NE-bound",
+            "latitude": 53.8446,
+            "longitude": -1.54203,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010430"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Queenshill Approach - SW-bound",
+            "latitude": 53.84428,
+            "longitude": -1.54235,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010431"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Leafield Close - NE-bound",
+            "latitude": 53.84239,
+            "longitude": -1.54608,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010432"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Lane St Urbans Primary - E-bound",
+            "latitude": 53.84046,
+            "longitude": -1.55905,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011040"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Leafield Close - SW-bound",
+            "latitude": 53.842,
+            "longitude": -1.5466,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010433"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Sir George Martin Dr Woodstock Close - E-bound",
+            "latitude": 53.85014,
+            "longitude": -1.57854,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012305"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Ln Stonegate Road - S-bound",
+            "latitude": 53.84246,
+            "longitude": -1.54524,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010587"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Highwood Avenue - SW-bound",
+            "latitude": 53.84518,
+            "longitude": -1.54029,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010429"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Lane St Urbans Primary - W-bound",
+            "latitude": 53.84026,
+            "longitude": -1.55949,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011039"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Highwood Avenue - NE-bound",
+            "latitude": 53.84548,
+            "longitude": -1.53987,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011200"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Sir George Martin Dr Woodstock Close - W-bound",
+            "latitude": 53.85004,
+            "longitude": -1.57866,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012306"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Nursery Ln Primley Park Crescent - E-bound",
+            "latitude": 53.85125,
+            "longitude": -1.53534,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012663"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Primley Park Cres Primley Park Ave - SW-bound",
+            "latitude": 53.85257,
+            "longitude": -1.53481,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010598"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Road Castle View - NE-bound",
+            "latitude": 53.84046,
+            "longitude": -1.54972,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011096"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Road Castle View - SW-bound",
+            "latitude": 53.84002,
+            "longitude": -1.5503,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011093"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Ln Woodlea Approach - N-bound",
+            "latitude": 53.83926,
+            "longitude": -1.56164,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011092"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Ln Woodlea Approach - S-bound",
+            "latitude": 53.83918,
+            "longitude": -1.56152,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011091"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway St Helens Lane - S-bound",
+            "latitude": 53.84862,
+            "longitude": -1.58018,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012356"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway St Helens Lane - N-bound",
+            "latitude": 53.84886,
+            "longitude": -1.58033,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012355"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd St Johns Church - N-bound",
+            "latitude": 53.84902,
+            "longitude": -1.53429,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013113"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd West Lea Close - NE-bound",
+            "latitude": 53.83906,
+            "longitude": -1.55224,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011095"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Primley Park Avenue Harrogate Rd - W-bound",
+            "latitude": 53.85251,
+            "longitude": -1.53315,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012662"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Harrogate Road - SW-bound",
+            "latitude": 53.84644,
+            "longitude": -1.53576,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010428"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Harrogate Road - NE-bound",
+            "latitude": 53.8466,
+            "longitude": -1.53562,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011199"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd St Johns Church - S-bound",
+            "latitude": 53.84881,
+            "longitude": -1.53402,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010597"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Road Garth Rd - E-bound",
+            "latitude": 53.83998,
+            "longitude": -1.54636,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011116"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Belvedere Rd - N-bound",
+            "latitude": 53.8529,
+            "longitude": -1.53266,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013165"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Belvedere Rd - S-bound",
+            "latitude": 53.85241,
+            "longitude": -1.53261,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010596"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd West Lea Close - SW-bound",
+            "latitude": 53.8386,
+            "longitude": -1.55268,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011098"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Street Lane - NE-bound",
+            "latitude": 53.84164,
+            "longitude": -1.54121,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011038"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway Dunstarn Drive - N-bound",
+            "latitude": 53.84667,
+            "longitude": -1.58035,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450023997"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway Dunstarn Drive - S-bound",
+            "latitude": 53.84652,
+            "longitude": -1.58025,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450023998"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Street Lane - SW-bound",
+            "latitude": 53.84188,
+            "longitude": -1.54048,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011027"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Road Garth Rd - S-bound",
+            "latitude": 53.83934,
+            "longitude": -1.54698,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011115"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Cedar Court - S-bound",
+            "latitude": 53.84622,
+            "longitude": -1.53424,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013601"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Sandhill Mount - N-bound",
+            "latitude": 53.85502,
+            "longitude": -1.53156,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013164"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Cedar Court - N-bound",
+            "latitude": 53.84582,
+            "longitude": -1.53435,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013602"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Sandhill Mount - S-bound",
+            "latitude": 53.85582,
+            "longitude": -1.53068,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013110"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Circus - NE-bound",
+            "latitude": 53.83898,
+            "longitude": -1.54376,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450011035"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parkland Drive - NE-bound",
+            "latitude": 53.83689,
+            "longitude": -1.55498,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010435"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parkland Drive - SW-bound",
+            "latitude": 53.83686,
+            "longitude": -1.55477,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010434"
+        },
+        {
+            "type": "bus_stop",
+            "name": "King Lane Circus - SW-bound",
+            "latitude": 53.83901,
+            "longitude": -1.54336,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010284"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor View - N-bound",
+            "latitude": 53.83748,
+            "longitude": -1.54792,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011118"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Sandmoor Dr - S-bound",
+            "latitude": 53.85752,
+            "longitude": -1.53004,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013111"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor View - SW-bound",
+            "latitude": 53.83719,
+            "longitude": -1.54794,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011117"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Sandmoor Dr - N-bound",
+            "latitude": 53.85816,
+            "longitude": -1.53011,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013163"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Corner (stop A) - N-bound",
+            "latitude": 53.84339,
+            "longitude": -1.53377,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010583"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway Oaklea Hall Close - SW-bound",
+            "latitude": 53.84426,
+            "longitude": -1.58211,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012309"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Long Causeway Oaklea Hall Close - NE-bound",
+            "latitude": 53.84427,
+            "longitude": -1.58225,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450012310"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Corner (stop B) - S-bound",
+            "latitude": 53.8433,
+            "longitude": -1.53356,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010584"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Sand Hill Lane - NE-bound",
+            "latitude": 53.84653,
+            "longitude": -1.53055,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012640"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Sand Hill Lane - SW-bound",
+            "latitude": 53.84684,
+            "longitude": -1.52968,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010228"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Ln Woodlea Park - SW-bound",
+            "latitude": 53.83574,
+            "longitude": -1.56347,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010443"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Corner (stop D) - S-bound",
+            "latitude": 53.84223,
+            "longitude": -1.53359,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013606"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Ring Road - NE-bound",
+            "latitude": 53.84854,
+            "longitude": -1.52811,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012692"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor Cresc - NE-bound",
+            "latitude": 53.83574,
+            "longitude": -1.54951,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011120"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tongue Ln Woodlea Park - NE-bound",
+            "latitude": 53.83552,
+            "longitude": -1.56383,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011094"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Corner (stop C) - E-bound",
+            "latitude": 53.84298,
+            "longitude": -1.53226,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010942"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Ring Road - SW-bound",
+            "latitude": 53.8484,
+            "longitude": -1.52805,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010229"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parklands Gardens - NE-bound",
+            "latitude": 53.83485,
+            "longitude": -1.55792,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011099"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parklands Gardens - SW-bound",
+            "latitude": 53.83462,
+            "longitude": -1.558,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011097"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor Cresc - SW-bound",
+            "latitude": 53.8349,
+            "longitude": -1.55032,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011119"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road (stop E) - N-bound",
+            "latitude": 53.84036,
+            "longitude": -1.53435,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013609"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Kingsway Court - NE-bound",
+            "latitude": 53.83869,
+            "longitude": -1.53705,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013604"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road Kingsway Court - SW-bound",
+            "latitude": 53.83858,
+            "longitude": -1.53697,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010586"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Road (stop F) - S-bound",
+            "latitude": 53.84,
+            "longitude": -1.53434,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010585"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd King Lane - NE-bound",
+            "latitude": 53.8372,
+            "longitude": -1.53989,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013608"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Sandringham Approach - NE-bound",
+            "latitude": 53.84986,
+            "longitude": -1.52581,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012691"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Sandringham Approach - SW-bound",
+            "latitude": 53.8499,
+            "longitude": -1.52548,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012689"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Wigton Lane - N-bound",
+            "latitude": 53.8612,
+            "longitude": -1.52798,
+            "accuracy": 20,
+            "description": "Alwoodley Gates, Leeds",
+            "atcocode": "450013112"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Wigton Lane - S-bound",
+            "latitude": 53.86104,
+            "longitude": -1.52769,
+            "accuracy": 20,
+            "description": "Alwoodley Gates, Leeds",
+            "atcocode": "450010599"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rad Carr Manor Parade - N-bound",
+            "latitude": 53.83526,
+            "longitude": -1.54363,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011036"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Bentcliffe Grove - W-bound",
+            "latitude": 53.84111,
+            "longitude": -1.53089,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013635"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Bentcliffe Grove - E-bound",
+            "latitude": 53.84121,
+            "longitude": -1.53073,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013634"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln The Spinney - W-bound",
+            "latitude": 53.84372,
+            "longitude": -1.52792,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010975"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rad Carr Manor Parade - S-bound",
+            "latitude": 53.8351,
+            "longitude": -1.54326,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011028"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor Walk - NE-bound",
+            "latitude": 53.83351,
+            "longitude": -1.5519,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011121"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Holt Lane - S-bound",
+            "latitude": 53.85556,
+            "longitude": -1.59095,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450010497"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Holt Lane - N-bound",
+            "latitude": 53.85456,
+            "longitude": -1.59146,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450011746"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Stainbeck Lane - NE-bound",
+            "latitude": 53.83292,
+            "longitude": -1.56069,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011101"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln The Spinney - E-bound",
+            "latitude": 53.84405,
+            "longitude": -1.52676,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013681"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Carr Manor Rd Carr Manor Walk - SW-bound",
+            "latitude": 53.833,
+            "longitude": -1.55227,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011122"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd The Crescent - S-bound",
+            "latitude": 53.85254,
+            "longitude": -1.59191,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450010498"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Stainbeck Lane - SW-bound",
+            "latitude": 53.8327,
+            "longitude": -1.56077,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011100"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane The Moorlands - SW-bound",
+            "latitude": 53.85088,
+            "longitude": -1.52288,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010230"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane The Moorlands - NE-bound",
+            "latitude": 53.8511,
+            "longitude": -1.52268,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012688"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd The Crescent - N-bound",
+            "latitude": 53.85178,
+            "longitude": -1.59236,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450011745"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd King Lane - S-bound",
+            "latitude": 53.83538,
+            "longitude": -1.539,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013610"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Kingsley Drive - S-bound",
+            "latitude": 53.85978,
+            "longitude": -1.59088,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450010496"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Helens Lane - S-bound",
+            "latitude": 53.8495,
+            "longitude": -1.59242,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450010499"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Helens Lane - N-bound",
+            "latitude": 53.85011,
+            "longitude": -1.59263,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450011744"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Church Lane Parkside Green - NE-bound",
+            "latitude": 53.83277,
+            "longitude": -1.56694,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450023869"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Kingsley Drive - N-bound",
+            "latitude": 53.86014,
+            "longitude": -1.59107,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450011748"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Church Lane Parkside Green - SW-bound",
+            "latitude": 53.83266,
+            "longitude": -1.56694,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010442"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Lawns Hall Close - N-bound",
+            "latitude": 53.84818,
+            "longitude": -1.59282,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011743"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Linton Avenue - SW-bound",
+            "latitude": 53.85147,
+            "longitude": -1.52097,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010231"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Foxhill Ave - N-bound",
+            "latitude": 53.83906,
+            "longitude": -1.58547,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450012360"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Foxhill Ave - S-bound",
+            "latitude": 53.83885,
+            "longitude": -1.58531,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450012359"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Road Cemetery - S-bound",
+            "latitude": 53.84606,
+            "longitude": -1.59255,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450010500"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Valley Gardens - N-bound",
+            "latitude": 53.83399,
+            "longitude": -1.53895,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013611"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Linton Avenue - NE-bound",
+            "latitude": 53.85179,
+            "longitude": -1.52021,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012642"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parkside Avenue - SW-bound",
+            "latitude": 53.83121,
+            "longitude": -1.56261,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010436"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stonegate Rd Parkside Avenue - NE-bound",
+            "latitude": 53.83119,
+            "longitude": -1.56282,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011102"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Rd Beckhill Approach - NE-bound",
+            "latitude": 53.83096,
+            "longitude": -1.55549,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010860"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Rd Beckhill Approach - SW-bound",
+            "latitude": 53.83096,
+            "longitude": -1.55501,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010861"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Road Cemetery - N-bound",
+            "latitude": 53.846,
+            "longitude": -1.59305,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011741"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Valley Gardens - S-bound",
+            "latitude": 53.83382,
+            "longitude": -1.53876,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013613"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Bentcliffe Gardens - E-bound",
+            "latitude": 53.83998,
+            "longitude": -1.52682,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013636"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Wensley View - NE-bound",
+            "latitude": 53.83208,
+            "longitude": -1.54435,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011033"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Moor Allerton Ave - W-bound",
+            "latitude": 53.84446,
+            "longitude": -1.52247,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010974"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Wensley View - SW-bound",
+            "latitude": 53.83204,
+            "longitude": -1.54405,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450010285"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Moor Allerton Ave - E-bound",
+            "latitude": 53.8446,
+            "longitude": -1.52221,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450013680"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Quarry Dene Pk - SE-bound",
+            "latitude": 53.83704,
+            "longitude": -1.58419,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450012358"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Quarry Dene Pk - NW-bound",
+            "latitude": 53.83716,
+            "longitude": -1.58444,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450012357"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Bentcliffe Gardens - SE-bound",
+            "latitude": 53.83986,
+            "longitude": -1.52646,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450023959"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Stoneleigh Avenue - E-bound",
+            "latitude": 53.85208,
+            "longitude": -1.51847,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450029857"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Highthorne Drive - E-bound",
+            "latitude": 53.85222,
+            "longitude": -1.51817,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450029856"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lawnswood Sports Club - N-bound",
+            "latitude": 53.84402,
+            "longitude": -1.59374,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011742"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Road Stonegate Cres - NE-bound",
+            "latitude": 53.82964,
+            "longitude": -1.55828,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011124"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lawnswood Sports Club - S-bound",
+            "latitude": 53.84292,
+            "longitude": -1.59375,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011747"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Short Lane - N-bound",
+            "latitude": 53.83185,
+            "longitude": -1.5387,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013614"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Road Stonegate Cres - SW-bound",
+            "latitude": 53.82908,
+            "longitude": -1.55876,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011123"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Rd Green View - NW-bound",
+            "latitude": 53.8297,
+            "longitude": -1.56837,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450012351"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Rd Green View - SE-bound",
+            "latitude": 53.82968,
+            "longitude": -1.56852,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010441"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Lane - W-bound",
+            "latitude": 53.83863,
+            "longitude": -1.52419,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013637"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Short Lane - S-bound",
+            "latitude": 53.83129,
+            "longitude": -1.53845,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013615"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane Miles Hill Crescent - E-bound",
+            "latitude": 53.82887,
+            "longitude": -1.54908,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011184"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane Miles Hill Crescent - W-bound",
+            "latitude": 53.82882,
+            "longitude": -1.54939,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450012301"
+        },
+        {
+            "type": "bus_stop",
+            "name": "WMC Stainbeck Avenue - SW-bound",
+            "latitude": 53.8288,
+            "longitude": -1.56554,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010437"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Drive Larkhill Rd - S-bound",
+            "latitude": 53.83784,
+            "longitude": -1.52424,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013666"
+        },
+        {
+            "type": "bus_stop",
+            "name": "WMC Stainbeck Avenue - NE-bound",
+            "latitude": 53.8287,
+            "longitude": -1.56589,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010438"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Talbot Grove - W-bound",
+            "latitude": 53.8447,
+            "longitude": -1.51778,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010973"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Lane - SE-bound",
+            "latitude": 53.8386,
+            "longitude": -1.52296,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013638"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Rd Stonegate Road - SE-bound",
+            "latitude": 53.82869,
+            "longitude": -1.56696,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010440"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Weetwood Ct - NW-bound",
+            "latitude": 53.83316,
+            "longitude": -1.58316,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011758"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Drive Larkhill View - NE-bound",
+            "latitude": 53.83613,
+            "longitude": -1.52618,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013663"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Weetwood Ct - SE-bound",
+            "latitude": 53.83299,
+            "longitude": -1.58288,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011757"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Birchwood Hill - E-bound",
+            "latitude": 53.85282,
+            "longitude": -1.51498,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012641"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Drive Larkhill View - SW-bound",
+            "latitude": 53.836,
+            "longitude": -1.52626,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013664"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Police Station - N-bound",
+            "latitude": 53.84092,
+            "longitude": -1.59477,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011739"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Rd Stonegate Road - NW-bound",
+            "latitude": 53.82851,
+            "longitude": -1.56703,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010439"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Police Station - S-bound",
+            "latitude": 53.84022,
+            "longitude": -1.59431,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450010501"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Talbot Grove - E-bound",
+            "latitude": 53.84485,
+            "longitude": -1.51682,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010943"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Spennithorpe Drive - SE-bound",
+            "latitude": 53.84298,
+            "longitude": -1.59706,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011569"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane Scott Hall Rd - E-bound",
+            "latitude": 53.8285,
+            "longitude": -1.54586,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011180"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane Scott Hall Rd - W-bound",
+            "latitude": 53.8284,
+            "longitude": -1.54617,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011179"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Dr Lincombe Mount - N-bound",
+            "latitude": 53.83463,
+            "longitude": -1.5275,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013662"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Spennithorpe Drive - NW-bound",
+            "latitude": 53.84306,
+            "longitude": -1.59729,
+            "accuracy": 20,
+            "description": "Lawnswood, Leeds",
+            "atcocode": "450011570"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Avenue - NE-bound",
+            "latitude": 53.82756,
+            "longitude": -1.56054,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010858"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Police Station - N-bound",
+            "latitude": 53.84032,
+            "longitude": -1.59505,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011568"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Road Parkway Hotel - NW-bound",
+            "latitude": 53.86755,
+            "longitude": -1.59321,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450014860"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Road Parkway Hotel - SE-bound",
+            "latitude": 53.8677,
+            "longitude": -1.5931,
+            "accuracy": 20,
+            "description": "Adel, Leeds",
+            "atcocode": "450014859"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane - S-bound",
+            "latitude": 53.82788,
+            "longitude": -1.54707,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450010283"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Lane - N-bound",
+            "latitude": 53.82778,
+            "longitude": -1.5473,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011034"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Birchwood Hill - W-bound",
+            "latitude": 53.85302,
+            "longitude": -1.51346,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010232"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Yorkshire Bank - N-bound",
+            "latitude": 53.82964,
+            "longitude": -1.53835,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013617"
+        },
+        {
+            "type": "bus_stop",
+            "name": "North Park Ave Larkhill Close - N-bound",
+            "latitude": 53.83751,
+            "longitude": -1.52205,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013639"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Ln Wensley Drive - E-bound",
+            "latitude": 53.82862,
+            "longitude": -1.54213,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011140"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Avenue - N-bound",
+            "latitude": 53.83157,
+            "longitude": -1.58251,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011755"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Ln Wensley Drive - W-bound",
+            "latitude": 53.82844,
+            "longitude": -1.54269,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011135"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Dr Lincombe Mount - S-bound",
+            "latitude": 53.83397,
+            "longitude": -1.52702,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013661"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Avenue - SE-bound",
+            "latitude": 53.8268,
+            "longitude": -1.55994,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010864"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Stainbeck Avenue - SW-bound",
+            "latitude": 53.82672,
+            "longitude": -1.56109,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011172"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Yorkshire Bank - W-bound",
+            "latitude": 53.82886,
+            "longitude": -1.53904,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011138"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Avenue - S-bound",
+            "latitude": 53.8309,
+            "longitude": -1.58226,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011756"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd New Adel Lane - SE-bound",
+            "latitude": 53.84575,
+            "longitude": -1.60071,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010746"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Dr Raynel Gardens - S-bound",
+            "latitude": 53.85308,
+            "longitude": -1.60248,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011538"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Bentley Lane - NW-bound",
+            "latitude": 53.82696,
+            "longitude": -1.56641,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011104"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lawnswood School - S-bound",
+            "latitude": 53.83692,
+            "longitude": -1.59341,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011161"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Dr Raynel Gardens - N-bound",
+            "latitude": 53.85316,
+            "longitude": -1.60271,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011537"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Darkwood Close - E-bound",
+            "latitude": 53.85338,
+            "longitude": -1.51206,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450027699"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd New Adel Lane - NW-bound",
+            "latitude": 53.8459,
+            "longitude": -1.60143,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011549"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln North Park Avenue - N-bound",
+            "latitude": 53.83646,
+            "longitude": -1.52148,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013640"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Mount - N-bound",
+            "latitude": 53.85142,
+            "longitude": -1.60306,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011536"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Yorkshire Bank - NW-bound",
+            "latitude": 53.82851,
+            "longitude": -1.53777,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013620"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Devonshire Ave - W-bound",
+            "latitude": 53.84482,
+            "longitude": -1.51356,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450010972"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Bentley Lane - SE-bound",
+            "latitude": 53.82614,
+            "longitude": -1.56515,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010447"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln North Park Avenue - S-bound",
+            "latitude": 53.83614,
+            "longitude": -1.52106,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013641"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lawnswood School - N-bound",
+            "latitude": 53.83606,
+            "longitude": -1.59388,
+            "accuracy": 20,
+            "description": "Weetwood, Leeds",
+            "atcocode": "450011163"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Mount (on) - W-bound",
+            "latitude": 53.85113,
+            "longitude": -1.6041,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011535"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Yorkshire Bank - SE-bound",
+            "latitude": 53.82814,
+            "longitude": -1.5373,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013619"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Approach - SE-bound",
+            "latitude": 53.84735,
+            "longitude": -1.6038,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011550"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Iveson Drive - S-bound",
+            "latitude": 53.84814,
+            "longitude": -1.6041,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011540"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Ireland Wood Terminus - SE-bound",
+            "latitude": 53.85448,
+            "longitude": -1.60487,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010752"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Potternewton Lane - E-bound",
+            "latitude": 53.82501,
+            "longitude": -1.55508,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010862"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Potternewton Lane - W-bound",
+            "latitude": 53.82494,
+            "longitude": -1.55553,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010863"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Potternewton Lane - N-bound",
+            "latitude": 53.82562,
+            "longitude": -1.54675,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011032"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Iveson Drive - NW-bound",
+            "latitude": 53.84775,
+            "longitude": -1.60431,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011547"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Ancaster Road - SE-bound",
+            "latitude": 53.83204,
+            "longitude": -1.5896,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011143"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Drive Spen Ln - E-bound",
+            "latitude": 53.84206,
+            "longitude": -1.60168,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010749"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Drive Lincombe Dr - SE-bound",
+            "latitude": 53.832,
+            "longitude": -1.52528,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450023910"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Drive Spen Ln - W-bound",
+            "latitude": 53.84196,
+            "longitude": -1.60169,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010748"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Junction - NE-bound",
+            "latitude": 53.82486,
+            "longitude": -1.56302,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010857"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Potternewton Lane Miles Hill Rd - W-bound",
+            "latitude": 53.8249,
+            "longitude": -1.55148,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011171"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Drive Lincombe Dr - NW-bound",
+            "latitude": 53.83192,
+            "longitude": -1.52536,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013660"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Glen Road - NW-bound",
+            "latitude": 53.8305,
+            "longitude": -1.58674,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011146"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Junction - NW-bound",
+            "latitude": 53.82488,
+            "longitude": -1.56386,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011103"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Potternewton Lane Miles Hill Rd - E-bound",
+            "latitude": 53.825,
+            "longitude": -1.54956,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011174"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Ancaster Road - NW-bound",
+            "latitude": 53.83208,
+            "longitude": -1.5901,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011144"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Glen Road - SE-bound",
+            "latitude": 53.82994,
+            "longitude": -1.58564,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011145"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Chandos Gardens - NW-bound",
+            "latitude": 53.8348,
+            "longitude": -1.52037,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013642"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Kepstorn Road - SE-bound",
+            "latitude": 53.83302,
+            "longitude": -1.59225,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011142"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Devonshire Ave - E-bound",
+            "latitude": 53.84477,
+            "longitude": -1.51087,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013679"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Potternewton Lane (on) - W-bound",
+            "latitude": 53.82487,
+            "longitude": -1.5478,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450011173"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd Kepstorn Road - NW-bound",
+            "latitude": 53.833,
+            "longitude": -1.5926,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011141"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Darkwood Way - E-bound",
+            "latitude": 53.85398,
+            "longitude": -1.5086,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012639"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Approach - NE-bound",
+            "latitude": 53.85032,
+            "longitude": -1.60637,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011534"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Raynel Approach - SW-bound",
+            "latitude": 53.8502,
+            "longitude": -1.60636,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010751"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Otley Rd - S-bound",
+            "latitude": 53.828,
+            "longitude": -1.58229,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011753"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Methley Drive - NW-bound",
+            "latitude": 53.8268,
+            "longitude": -1.53617,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013622"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Junction - SE-bound",
+            "latitude": 53.82404,
+            "longitude": -1.56259,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011106"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Holt Farm Close - E-bound",
+            "latitude": 53.85718,
+            "longitude": -1.60649,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450023819"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Junction - SW-bound",
+            "latitude": 53.82406,
+            "longitude": -1.56463,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010446"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Chads Road - SE-bound",
+            "latitude": 53.82793,
+            "longitude": -1.58306,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011147"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Chads Road - NW-bound",
+            "latitude": 53.82807,
+            "longitude": -1.58353,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011148"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Weetwood Lane Otley Rd - N-bound",
+            "latitude": 53.82772,
+            "longitude": -1.58255,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011754"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Ln Darkwood Way - W-bound",
+            "latitude": 53.85406,
+            "longitude": -1.50772,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450010233"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Lane Wynford Mount - S-bound",
+            "latitude": 53.8391,
+            "longitude": -1.60128,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450010750"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Lane Gledhow Ave - S-bound",
+            "latitude": 53.83352,
+            "longitude": -1.52024,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013643"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Centre (stop B) - W-bound",
+            "latitude": 53.85616,
+            "longitude": -1.60706,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450010755"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Lane Wynford Mount - N-bound",
+            "latitude": 53.839,
+            "longitude": -1.60136,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011539"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Turning Circle - W-bound",
+            "latitude": 53.83166,
+            "longitude": -1.52305,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013659"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Approach Iveson Grove - NE-bound",
+            "latitude": 53.846,
+            "longitude": -1.60608,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011543"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Shaftsbury Ave - W-bound",
+            "latitude": 53.84438,
+            "longitude": -1.50958,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013677"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Hospital Lane - E-bound",
+            "latitude": 53.85038,
+            "longitude": -1.60737,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010761"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Brackenwood Turning Circle - NE-bound",
+            "latitude": 53.83196,
+            "longitude": -1.52229,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013667"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Centre (stop C) - W-bound",
+            "latitude": 53.85618,
+            "longitude": -1.60752,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450010756"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Ave Lidgett Lane - W-bound",
+            "latitude": 53.83326,
+            "longitude": -1.51986,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013658"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Approach Iveson Grove - SW-bound",
+            "latitude": 53.84578,
+            "longitude": -1.60631,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011546"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Road West Parade - N-bound",
+            "latitude": 53.8355,
+            "longitude": -1.59826,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011305"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Road West Parade - SE-bound",
+            "latitude": 53.83512,
+            "longitude": -1.59779,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011303"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Bridgewater Court - E-bound",
+            "latitude": 53.82388,
+            "longitude": -1.56832,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011185"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Road Golden Acre Park - SE-bound",
+            "latitude": 53.87214,
+            "longitude": -1.5964,
+            "accuracy": 20,
+            "description": "Bramhope, Leeds",
+            "atcocode": "450014858"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Potternewton Lane - S-bound",
+            "latitude": 53.82396,
+            "longitude": -1.54567,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450010286"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Lane Bridgewater Court - W-bound",
+            "latitude": 53.82379,
+            "longitude": -1.56872,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011186"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Methley Drive - SE-bound",
+            "latitude": 53.82617,
+            "longitude": -1.53483,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013624"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Road Golden Acre Park - NW-bound",
+            "latitude": 53.87219,
+            "longitude": -1.59666,
+            "accuracy": 20,
+            "description": "Bramhope, Leeds",
+            "atcocode": "450014857"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Hospital Lane - W-bound",
+            "latitude": 53.8505,
+            "longitude": -1.60828,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010753"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Holtdale Approach Holtdale Rd - NE-bound",
+            "latitude": 53.85571,
+            "longitude": -1.60837,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450011722"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Ln Grove Road - E-bound",
+            "latitude": 53.82426,
+            "longitude": -1.57283,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011188"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Grove Ln Grove Road - W-bound",
+            "latitude": 53.82412,
+            "longitude": -1.57212,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011187"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Drive Parkstone Grove - E-bound",
+            "latitude": 53.84248,
+            "longitude": -1.60544,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450010747"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Holtdale Approach Holtdale Rd - SW-bound",
+            "latitude": 53.85546,
+            "longitude": -1.60857,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450011720"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Drive Parkstone Grove - W-bound",
+            "latitude": 53.8425,
+            "longitude": -1.60593,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011542"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street Ln Shaftsbury Ave - SE-bound",
+            "latitude": 53.84406,
+            "longitude": -1.50808,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450010944"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Farm Hill South - NW-bound",
+            "latitude": 53.82246,
+            "longitude": -1.5608,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011105"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Chads Drive - NW-bound",
+            "latitude": 53.82575,
+            "longitude": -1.58169,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011164"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Ln West Parade - SW-bound",
+            "latitude": 53.83586,
+            "longitude": -1.60091,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011272"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Jackson Avenue - W-bound",
+            "latitude": 53.83347,
+            "longitude": -1.51696,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450014490"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Potternewton Lane - SE-bound",
+            "latitude": 53.82536,
+            "longitude": -1.53377,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013625"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Ln West Parade - N-bound",
+            "latitude": 53.83578,
+            "longitude": -1.60119,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011263"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Chads Drive - S-bound",
+            "latitude": 53.82524,
+            "longitude": -1.58108,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011149"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Longwood Crescent - W-bound",
+            "latitude": 53.85454,
+            "longitude": -1.50475,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012638"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Jackson Avenue (on) - S-bound",
+            "latitude": 53.83342,
+            "longitude": -1.51627,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013657"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harrogate Rd Potternewton Lane - NW-bound",
+            "latitude": 53.82502,
+            "longitude": -1.53357,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013627"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Farm Hill South - SE-bound",
+            "latitude": 53.82154,
+            "longitude": -1.55896,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010448"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Approach Iveson Crescent - NE-bound",
+            "latitude": 53.84416,
+            "longitude": -1.60875,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011544"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shaw Ln Otley Road - NE-bound",
+            "latitude": 53.82402,
+            "longitude": -1.57921,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011190"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Holtdale Approach Holtdale Place - W-bound",
+            "latitude": 53.85531,
+            "longitude": -1.61111,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450011725"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Rd St Annes Road - N-bound",
+            "latitude": 53.82437,
+            "longitude": -1.58071,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011166"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Iveson Approach Iveson Crescent - SW-bound",
+            "latitude": 53.84372,
+            "longitude": -1.60897,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011541"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shaw Ln Otley Road - SW-bound",
+            "latitude": 53.8239,
+            "longitude": -1.57914,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450010445"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Scott Hall Grove - SE-bound",
+            "latitude": 53.82218,
+            "longitude": -1.54384,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450010287"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Gledhow Lane - S-bound",
+            "latitude": 53.82958,
+            "longitude": -1.52075,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013645"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Longwood Crescent - NE-bound",
+            "latitude": 53.85498,
+            "longitude": -1.50338,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012687"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Lidgett Ln Gledhow Lane - N-bound",
+            "latitude": 53.8293,
+            "longitude": -1.52114,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013646"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Holtdale Approach Holtdale Place - E-bound",
+            "latitude": 53.85548,
+            "longitude": -1.61178,
+            "accuracy": 20,
+            "description": "Holt Park, Leeds",
+            "atcocode": "450011723"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Scott Hall Grove - NW-bound",
+            "latitude": 53.82182,
+            "longitude": -1.54398,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450010282"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harehills Lane Harrogate Rd - SE-bound",
+            "latitude": 53.82437,
+            "longitude": -1.53183,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450010703"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street La Park Ln - NW-bound",
+            "latitude": 53.84274,
+            "longitude": -1.50531,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013676"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Jackson Ave Lidgett Grove - N-bound",
+            "latitude": 53.8312,
+            "longitude": -1.51672,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013656"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Jackson Ave Lidgett Grove - S-bound",
+            "latitude": 53.83104,
+            "longitude": -1.5166,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013655"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Road Ridge Grove - NW-bound",
+            "latitude": 53.82038,
+            "longitude": -1.55674,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011108"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Road Ridge Grove - SE-bound",
+            "latitude": 53.82036,
+            "longitude": -1.55637,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010449"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Iveson Dr - E-bound",
+            "latitude": 53.8444,
+            "longitude": -1.61097,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011512"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Lane Butcher Hill - NE-bound",
+            "latitude": 53.834,
+            "longitude": -1.60292,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011264"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Iveson Dr - W-bound",
+            "latitude": 53.84418,
+            "longitude": -1.61135,
+            "accuracy": 20,
+            "description": "Ireland Wood, Leeds",
+            "atcocode": "450011521"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tinshill Lane Tinshill Grove - NE-bound",
+            "latitude": 53.8533,
+            "longitude": -1.61346,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011532"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Spen Lane Butcher Hill - S-bound",
+            "latitude": 53.8336,
+            "longitude": -1.60314,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011267"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Moorhouse Court - SW-bound",
+            "latitude": 53.85588,
+            "longitude": -1.50134,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012686"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tinshill Lane Tinshill Grove - SW-bound",
+            "latitude": 53.85308,
+            "longitude": -1.61382,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011533"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Road Holtdale Approach - SE-bound",
+            "latitude": 53.85621,
+            "longitude": -1.61357,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011730"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Arndale Centre - SE-bound",
+            "latitude": 53.82217,
+            "longitude": -1.57847,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011363"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Arndale Centre - NW-bound",
+            "latitude": 53.82222,
+            "longitude": -1.57885,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011366"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Campus - N-bound",
+            "latitude": 53.82748,
+            "longitude": -1.59393,
+            "accuracy": 20,
+            "description": "Beckett Park, Leeds",
+            "atcocode": "450023470"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Road Holtdale Approach - NW-bound",
+            "latitude": 53.8563,
+            "longitude": -1.61389,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011728"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Street La Park Ln - S-bound",
+            "latitude": 53.84178,
+            "longitude": -1.50403,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013678"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapel Allerton Hospital - N-bound",
+            "latitude": 53.82264,
+            "longitude": -1.5326,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450013629"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapel Allerton Hospital - S-bound",
+            "latitude": 53.82262,
+            "longitude": -1.53241,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450014523"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Roundhay Park - N-bound",
+            "latitude": 53.83846,
+            "longitude": -1.50532,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450010946"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Emville Ave - W-bound",
+            "latitude": 53.85638,
+            "longitude": -1.49985,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012645"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Road Sugarwell Court - NW-bound",
+            "latitude": 53.81886,
+            "longitude": -1.55309,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011107"
+        },
+        {
+            "type": "bus_stop",
+            "name": "North Lane Library - E-bound",
+            "latitude": 53.82112,
+            "longitude": -1.57871,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011291"
+        },
+        {
+            "type": "bus_stop",
+            "name": "North Lane Library - W-bound",
+            "latitude": 53.82104,
+            "longitude": -1.57848,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011292"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Roundhay Park - S-bound",
+            "latitude": 53.83795,
+            "longitude": -1.50517,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450010945"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Tinshill Road - N-bound",
+            "latitude": 53.85844,
+            "longitude": -1.61505,
+            "accuracy": 20,
+            "description": "Cookridge, Leeds",
+            "atcocode": "450011502"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Lane Thorn Ln - N-bound",
+            "latitude": 53.8289,
+            "longitude": -1.51587,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013654"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Otley Old Rd Tinshill Road - S-bound",
+            "latitude": 53.85904,
+            "longitude": -1.61505,
+            "accuracy": 20,
+            "description": "Cookridge, Leeds",
+            "atcocode": "450010758"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Lane Thorn Ln - W-bound",
+            "latitude": 53.8286,
+            "longitude": -1.51615,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013647"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Road Sugarwell Court - SE-bound",
+            "latitude": 53.81851,
+            "longitude": -1.55197,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010450"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Butcher Hill Old Oak Drive - E-bound",
+            "latitude": 53.83313,
+            "longitude": -1.6058,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450010407"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Shadwell Lane Emville Ave - E-bound",
+            "latitude": 53.85648,
+            "longitude": -1.49874,
+            "accuracy": 20,
+            "description": "Moortown, Leeds",
+            "atcocode": "450012644"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Lane Thorn Ln - E-bound",
+            "latitude": 53.82865,
+            "longitude": -1.51531,
+            "accuracy": 20,
+            "description": "Gledhow, Leeds",
+            "atcocode": "450013648"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Wy Birchtree Way - E-bound",
+            "latitude": 53.84442,
+            "longitude": -1.61474,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011517"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapeltown Road Newton Parade - N-bound",
+            "latitude": 53.82138,
+            "longitude": -1.5325,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450013630"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Butcher Hill Old Oak Drive - W-bound",
+            "latitude": 53.833,
+            "longitude": -1.60594,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011288"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Wikefield Farm - SW-bound",
+            "latitude": 53.87539,
+            "longitude": -1.51191,
+            "accuracy": 20,
+            "description": "Wike, Leeds",
+            "atcocode": "450026537"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Wikefield Farm - NE-bound",
+            "latitude": 53.87558,
+            "longitude": -1.51189,
+            "accuracy": 20,
+            "description": "Wike, Leeds",
+            "atcocode": "450026538"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harehills Ln Newton Road - SE-bound",
+            "latitude": 53.82268,
+            "longitude": -1.52742,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450013700"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Sholebroke Mount - NW-bound",
+            "latitude": 53.81915,
+            "longitude": -1.54132,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450011031"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harehills Ln Newton Road - NW-bound",
+            "latitude": 53.82256,
+            "longitude": -1.52744,
+            "accuracy": 20,
+            "description": "Chapel Allerton, Leeds",
+            "atcocode": "450014501"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Wy Birchtree Way - W-bound",
+            "latitude": 53.84438,
+            "longitude": -1.61542,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011519"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Bainbrigge Road - SE-bound",
+            "latitude": 53.8193,
+            "longitude": -1.57539,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011365"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Bainbrigge Road - NW-bound",
+            "latitude": 53.81925,
+            "longitude": -1.57561,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011368"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tinshill Lane Tinshill Ave - NE-bound",
+            "latitude": 53.85106,
+            "longitude": -1.61758,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011528"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Queenswood Drive Spen Ln - SE-bound",
+            "latitude": 53.83021,
+            "longitude": -1.60381,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450010406"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Tinshill Lane Tinshill Ave - SW-bound",
+            "latitude": 53.85087,
+            "longitude": -1.61775,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011531"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Queenswood Drive Queenswood Green - NW-bound",
+            "latitude": 53.82998,
+            "longitude": -1.60367,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011269"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Wharfedale Avenue - NW-bound",
+            "latitude": 53.8175,
+            "longitude": -1.54987,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010444"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapeltown Road Newton Parade - S-bound",
+            "latitude": 53.82032,
+            "longitude": -1.5318,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450013631"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Queenswood Drive Ghyll Rd - S-bound",
+            "latitude": 53.82815,
+            "longitude": -1.60182,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450010405"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Scott Hall Rd Sholebroke Mount - SE-bound",
+            "latitude": 53.81837,
+            "longitude": -1.54014,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450010288"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapeltown Rd St Marys Close - N-bound",
+            "latitude": 53.82016,
+            "longitude": -1.53193,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450013633"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Queenswood Drive Ghyll Rd - N-bound",
+            "latitude": 53.82814,
+            "longitude": -1.60199,
+            "accuracy": 20,
+            "description": "West Park, Leeds",
+            "atcocode": "450011268"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Silk Mill Approach - SE-bound",
+            "latitude": 53.8452,
+            "longitude": -1.61751,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011520"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Wharfedale Avenue - SE-bound",
+            "latitude": 53.8171,
+            "longitude": -1.54854,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450010451"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Lane Cookridge Ln - E-bound",
+            "latitude": 53.86318,
+            "longitude": -1.61668,
+            "accuracy": 20,
+            "description": "Cookridge, Leeds",
+            "atcocode": "450010757"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Chapeltown Rd St Marys Close - S-bound",
+            "latitude": 53.81993,
+            "longitude": -1.53166,
+            "accuracy": 20,
+            "description": "Chapeltown, Leeds",
+            "atcocode": "450013632"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Silk Mill Approach - NW-bound",
+            "latitude": 53.84536,
+            "longitude": -1.61789,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011522"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Richmond Avenue - E-bound",
+            "latitude": 53.81754,
+            "longitude": -1.57215,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011367"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Green Lane Cookridge Ln - W-bound",
+            "latitude": 53.86304,
+            "longitude": -1.61708,
+            "accuracy": 20,
+            "description": "Cookridge, Leeds",
+            "atcocode": "450011740"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Richmond Avenue - NW-bound",
+            "latitude": 53.81755,
+            "longitude": -1.57308,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011370"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Butcher Hill Abbey Grange School - E-bound",
+            "latitude": 53.8341,
+            "longitude": -1.61076,
+            "accuracy": 20,
+            "description": "Moor Grange, Leeds",
+            "atcocode": "450010412"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Butcher Hill Abbey Grange School - W-bound",
+            "latitude": 53.83398,
+            "longitude": -1.61092,
+            "accuracy": 20,
+            "description": "Moor Grange, Leeds",
+            "atcocode": "450011277"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harehills Ln Roxholme Avenue - NW-bound",
+            "latitude": 53.82179,
+            "longitude": -1.52431,
+            "accuracy": 20,
+            "description": "Harehills, Leeds",
+            "atcocode": "450014502"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln North Grange Road - E-bound",
+            "latitude": 53.81674,
+            "longitude": -1.56847,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011369"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Bedford Mount - SE-bound",
+            "latitude": 53.84612,
+            "longitude": -1.61887,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011525"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Way Bedford Mount - NW-bound",
+            "latitude": 53.84597,
+            "longitude": -1.61886,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011518"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln North Grange Road - NW-bound",
+            "latitude": 53.81674,
+            "longitude": -1.56911,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011372"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Lane St Margarets Dr - E-bound",
+            "latitude": 53.82819,
+            "longitude": -1.51103,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013649"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Rd Kings Road - SE-bound",
+            "latitude": 53.87818,
+            "longitude": -1.60345,
+            "accuracy": 20,
+            "description": "Bramhope, Leeds",
+            "atcocode": "450010495"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Drive Silk Mill Ave - N-bound",
+            "latitude": 53.84699,
+            "longitude": -1.61935,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011526"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Stadium - SE-bound",
+            "latitude": 53.81852,
+            "longitude": -1.5803,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011439"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Gledhow Lane St Margarets Dr - W-bound",
+            "latitude": 53.82799,
+            "longitude": -1.51106,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013651"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Silk Mill Drive Silk Mill Ave - SW-bound",
+            "latitude": 53.84662,
+            "longitude": -1.61943,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011523"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Stadium - NE-bound",
+            "latitude": 53.81896,
+            "longitude": -1.58244,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450010960"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Harehills Ln Roxholme Avenue - SE-bound",
+            "latitude": 53.82165,
+            "longitude": -1.52361,
+            "accuracy": 20,
+            "description": "Harehills, Leeds",
+            "atcocode": "450014503"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Bedford Avenue - NW-bound",
+            "latitude": 53.84884,
+            "longitude": -1.62026,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011529"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Cumberland Road - SE-bound",
+            "latitude": 53.81595,
+            "longitude": -1.56499,
+            "accuracy": 20,
+            "description": "Hyde Park Corner, Leeds",
+            "atcocode": "450011373"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Princes Ave Soldiers Field - N-bound",
+            "latitude": 53.83244,
+            "longitude": -1.50451,
+            "accuracy": 20,
+            "description": "Roundhay, Leeds",
+            "atcocode": "450013675"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Ln Cumberland Road - NW-bound",
+            "latitude": 53.81588,
+            "longitude": -1.56514,
+            "accuracy": 20,
+            "description": "Hyde Park Corner, Leeds",
+            "atcocode": "450011376"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Bedford Avenue - S-bound",
+            "latitude": 53.84916,
+            "longitude": -1.62076,
+            "accuracy": 20,
+            "description": "Tinshill, Leeds",
+            "atcocode": "450011524"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Meanwood Rd Buslingthorpe Lane - NW-bound",
+            "latitude": 53.81602,
+            "longitude": -1.54668,
+            "accuracy": 20,
+            "description": "Meanwood, Leeds",
+            "atcocode": "450011061"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Cardigan Road Spring Rd - NW-bound",
+            "latitude": 53.81742,
+            "longitude": -1.57808,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011423"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Headingley Stadium - SW-bound",
+            "latitude": 53.81854,
+            "longitude": -1.58302,
+            "accuracy": 20,
+            "description": "Headingley, Leeds",
+            "atcocode": "450011290"
+        },
+        {
+            "type": "bus_stop",
+            "name": "Leeds Rd Kings Road - NW-bound",
+            "latitude": 53.87872,
+            "longitude": -1.60425,
+            "accuracy": 20,
+            "description": "Bramhope, Leeds",
+            "atcocode": "450010461"
+        }
+    ]
+}

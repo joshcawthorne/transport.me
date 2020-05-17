@@ -1,0 +1,177 @@
+{
+    "atcocode": "450010938",
+    "smscode": "45010938",
+    "request_time": "2020-05-17T16:43:47+01:00",
+    "name": "King Lane Park & Ride (stop A)",
+    "stop_name": "King Lane Park & Ride",
+    "bearing": "SE",
+    "indicator": "stop A",
+    "locality": "Moortown, Leeds",
+    "location": {
+        "type": "Point",
+        "coordinates": [
+            -1.55222,
+            53.84922
+        ]
+    },
+    "departures": {
+        "7": [{
+                "mode": "bus",
+                "line": "7",
+                "line_name": "7",
+                "direction": "Primley Park",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "16:47",
+                "expected_departure_time": "16:45",
+                "best_departure_estimate": "16:45",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "outbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/7/outbound/450010938/2020-05-17/16:47/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            },
+            {
+                "mode": "bus",
+                "line": "7",
+                "line_name": "7",
+                "direction": "Primley Park",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "17:47",
+                "expected_departure_time": "17:47",
+                "best_departure_estimate": "17:47",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "outbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/7/outbound/450010938/2020-05-17/17:47/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            }
+        ],
+        "51": [{
+                "mode": "bus",
+                "line": "51",
+                "line_name": "51",
+                "direction": "Moor Allerton",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "17:06",
+                "expected_departure_time": "17:07",
+                "best_departure_estimate": "17:07",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "inbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/51/inbound/450010938/2020-05-17/17:06/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            },
+            {
+                "mode": "bus",
+                "line": "51",
+                "line_name": "51",
+                "direction": "Moor Allerton",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "17:36",
+                "expected_departure_time": "17:34",
+                "best_departure_estimate": "17:34",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "inbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/51/inbound/450010938/2020-05-17/17:36/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            },
+            {
+                "mode": "bus",
+                "line": "51",
+                "line_name": "51",
+                "direction": "Moor Allerton",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "18:06",
+                "expected_departure_time": "18:06",
+                "best_departure_estimate": "18:06",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "inbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/51/inbound/450010938/2020-05-17/18:06/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            }
+        ],
+        "7A": [{
+                "mode": "bus",
+                "line": "7A",
+                "line_name": "7A",
+                "direction": "Alwoodley Ave The D",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "17:11",
+                "expected_departure_time": "17:13",
+                "best_departure_estimate": "17:13",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "outbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/7A/outbound/450010938/2020-05-17/17:11/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            },
+            {
+                "mode": "bus",
+                "line": "7A",
+                "line_name": "7A",
+                "direction": "Alwoodley Ave The D",
+                "operator": "FLDS",
+                "date": "2020-05-17",
+                "expected_departure_date": "2020-05-17",
+                "aimed_departure_time": "18:09",
+                "expected_departure_time": "18:09",
+                "best_departure_estimate": "18:09",
+                "status": {
+                    "cancellation": {
+                        "value": false,
+                        "reason": null
+                    }
+                },
+                "source": "FirstTicketerNationwide",
+                "dir": "outbound",
+                "operator_name": "First Leeds",
+                "id": "https://transportapi.com/v3/uk/bus/route/FLDS/7A/outbound/450010938/2020-05-17/18:09/timetable.json?app_id=f310fe7a&app_key=592a92cc0b58c9e84abd7140d21f4a2f"
+            }
+        ]
+    },
+    "source": "FirstTicketerNationwide"
+}
